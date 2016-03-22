@@ -15,6 +15,10 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 
+
+//This is second commit
+//Golap Hasan by 23-Mar-2016
+
 public class RenamerMain  extends JFrame
 {
 	String choosertitle;
@@ -42,6 +46,7 @@ public class RenamerMain  extends JFrame
 		
 		
 		
+		//Choose files for renaming
 		
         chooseFiles = new JButton("Choose Files");
         //chooseFiles.setFont(font);
